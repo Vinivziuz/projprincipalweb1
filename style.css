@@ -1,0 +1,16 @@
+body {
+    font-family: trebuchet ms, sans-serif;
+    background-attachment: scroll;
+    background-size: cover;
+
+    margin: 5%; 
+    color: rgb(255, 255, 255);
+}
+
+.proj{
+
+    padding: 20px;
+    border: solid 2px rgba(218, 218, 218, 0.726);
+    background-color: rgba(66, 62, 68, 0.342);
+    width: 500px;
+}
