@@ -66,3 +66,15 @@ body {
 li{
     margin-bottom: 1%;
 }
+
+.adcustom{
+    border: solid 1px black;
+    text-decoration: none;
+    padding: 2%;
+    text-align: center;
+}
+
+.adcustom:hover{
+    border: solid 2px black;
+    text-decoration: underline;
+}
